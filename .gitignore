@@ -1,0 +1,11 @@
+.DS_*
+
+#web_storm
+.idea
+
+#node modules
+node_modules
+
+# Logs
+logs
+*.log
